@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Details](./assets/hero.png)
+# ![MERN Stack CRUD App Group Project - Project Details](./assets/hero.png)
 
 ## Notes and guidance
 
@@ -31,14 +31,15 @@ Here are some quick tips to get your project started:
 - ***Keep it simple.*** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to an app without polish.
 - There is not a linear correlation between how many people are on a team and how much code is written. Put another way, if you're on a team of four, don't expect your project to have four times the amount of features compared to if you were working on a project alone.
 - Seriously, this cannot be stressed enough: ***keep it simple and focus on basic functionality that meets the project requirements first, before exploring more advanced features***. We're not saying this to discourage you - quite the opposite - few things do more damage to a group than unaligned expectations based on unobtainable goals. If your group heeds this advice and scopes your project appropriately your group will likely output more over the duration of this project, not less.
-- Theme your app to give it a personal touch.
 - Prioritize and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
-- Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
+- When adding functionality to your back-end application, test it using Postman or a similar tool before building the UI for that feature on in your front-end app.
+- Theme your app to give it a personal touch.
 - Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
+- Regularly review the project requirements to ensure your team is on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
 
 ### Project assistance
 
-Your instructor team will provide guidelines for reaching out for help during project week.
+Your instructor team will provide guidelines for reaching out for help during the project.
 
 ## Presentation ideas
 

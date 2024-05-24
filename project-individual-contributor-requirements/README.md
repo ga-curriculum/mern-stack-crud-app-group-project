@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Group Project Individual Contributor Requirements](./assets/hero.png)
+# ![MERN Stack CRUD App Group Project - Project Individual Contributor Requirements](./assets/hero.png)
 
 ## Individual contributor requirements
 

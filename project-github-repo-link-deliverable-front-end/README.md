@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project GitHub Repo Link Deliverable](./assets/hero.png)
+# ![MERN Stack CRUD App Group Project - Project GitHub Repo Link Deliverable - Front-end](./assets/hero.png)
 
 ## Introduction
 
@@ -8,4 +8,4 @@ After your project proposal has been approved, your team will need to designate 
 
 ## Submitting your GitHub repo link
 
-Your team will submit a single link to the main ***public*** GitHub repo that you are using for your [tktk Module Name] below.
+Your team will submit a single link to the main ***public*** GitHub repo that you are using for the front-end of your MERN Stack CRUD App Group Project below.
