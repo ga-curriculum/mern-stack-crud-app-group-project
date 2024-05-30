@@ -22,7 +22,7 @@ A group may pass their project as a whole, but individuals within that group may
 
 ### Group deliverables
 
-Only one person per group needs to submit deliverables into the Project Delverables assignment in Canvas. To enable this, you will need to use Canvas to construct an assignment group for this project. Use the same groups for project feedback rubric as well. All students will receive individual feedback through the the project individual contributor feedback rubric.
+Only one person per group needs to submit deliverables into the Project Delverables assignment in Canvas. To enable this, you will need to use Canvas to construct an assignment group for this project. Use the same groups for project feedback rubric as well. All students will receive individual feedback through the project individual contributor feedback rubric.
 
 ## Customizing your project week
 
