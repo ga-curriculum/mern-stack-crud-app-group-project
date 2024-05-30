@@ -1,6 +1,6 @@
 # ![MERN Stack CRUD App Group Project - Project Planning Deliverable](./assets/hero.png)
 
-## Project planning deliverable
+## Introduction
 
 Planning is vital to build anything more than the most trivial of applications; therefore, this is where your group will begin its journey with this project. You shouldn't write any code or set up a GitHub repo for your project until an instructor approves your planning materials.
 
