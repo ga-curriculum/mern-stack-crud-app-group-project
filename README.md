@@ -2,6 +2,8 @@
 
 ## About
 
+***Instructors should see the Instructor Guide for more configuration details.***
+
 In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD utilizing Node/Express/MongoDB. They'll also construct a front-end React application capable of interacting with that API through AJAX requrest..
 
 ## Prerequisites

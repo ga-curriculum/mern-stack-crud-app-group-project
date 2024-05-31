@@ -24,7 +24,7 @@ When your team submits your project planning materials your proposal will either
 
 ## 2. Create a GitHub repo
 
-Once your team's project proposal is approved, create the public GitHub repo that you'll use for the project. See the [MERN Stack CRUD App Group Project Deliverables](../project-deliverables/README.md) for more details.
+Once your team's project proposal is approved, create the public GitHub repos that you'll use for the project. See the [MERN Stack CRUD App Group Project Deliverables](../project-deliverables/README.md) for more details.
 
 ## 3. Build the project
 

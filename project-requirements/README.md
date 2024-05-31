@@ -28,7 +28,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - The project has at least two data entities in addition to the User model. At least one entity must have a relationship with the User model.
 - The project has full CRUD functionality on both the back-end and front-end.
 - The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
-- The project is deployed online so that the rest of the world can use it!
+- The project is deployed online so that the rest of the world can use it.
 
 ### Code convention
 
@@ -65,7 +65,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ## README requirements
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your group's README must contain the items or sections below.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your group's front-end README must contain the items or sections below. Unless stated otherwise, these requirements apply only to the front-end README file.
 
 Your front-end `README.md` file should contain the following:
 
@@ -85,6 +85,7 @@ Your back-end `README.md` file should contain the following:
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
 
 - Your group presents your project in front of the class on the scheduled presentation day.
+- The project your group presents is the project you were approved by your instructor to build.
 
 ## Group evaluation
 
