@@ -20,7 +20,7 @@ Students should be presented with and held to the standards of both the project 
 
 A group may pass their project as a whole, but individuals within that group may fail. This helps to ensure individuals in a group are not just motivated to deliver a project that meets the requirements, but also to be meaningful contributors to the project as a whole.
 
-### Group deliverables
+### Group deliverables (Canvas only)
 
 Only one person per group needs to submit deliverables into the Project Delverables assignment in Canvas. To enable this, you will need to use Canvas to construct an assignment group for this project. Use the same groups for project feedback rubric as well. All students will receive individual feedback through the project individual contributor feedback rubric.
 
